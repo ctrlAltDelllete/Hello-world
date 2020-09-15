@@ -1,6 +1,6 @@
 # Hello-world
 Test repository
 
-Just fooling around with GitHub and practicing! 
+Just practicing and fooling around with GitHub! 
 
 : )
